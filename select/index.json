@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BAD ENDING FUNK (Slowed)",
+  "base_artist": "Shimuda、SlowlyDying",
+  "createdAt": "2026-03-31T06:38:24.046581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BAD ENDING FUNK (Paused)",
+      "artist": "Shimuda",
+      "has_synced": true,
+      "path": "select/01_BAD_ENDING_FUNK_(Paused)_Shimuda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BAD ENDING FUNK",
+      "artist": "Shimuda",
+      "has_synced": true,
+      "path": "select/02_BAD_ENDING_FUNK_Shimuda.lrc"
+    }
+  ]
+}
